@@ -2,7 +2,7 @@
 
 A modern, fast, and fully responsive developer portfolio built with React, Tailwind CSS, and Framer Motion. Designed to showcase my engineering skills, project showcase, and professional contact paths.
 
-🌐 **Live Demo:** muhammad-qwaider.netlify.app
+🌐 **Live Demo:** [https://muhammad-qwaider.netlify.app](https://muhammad-qwaider.netlify.app)
 
 ---
 
